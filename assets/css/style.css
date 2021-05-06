@@ -1,0 +1,12 @@
+#carouselPics {
+    height: 400px;
+}
+
+.d-block {
+    object-fit: cover;
+    height: 400px;
+}
+
+#address {
+    font-weight: lighter;
+}
