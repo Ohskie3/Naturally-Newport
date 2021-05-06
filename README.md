@@ -1,1 +1,1 @@
-# Naturally-Newport
+# Naturally Newport
